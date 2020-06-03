@@ -48,12 +48,12 @@ https://wechaturl.gitbook.io/wechaturl/https_ssl/ssl_add
 1. 按照下图填写好，保存。域名切记要换成真实的域名（之所以泛域名生成较为复杂，原因是根域名和下一级域名都需要做dns解析）
 
 
-![不死鸟防封-添加待生成证书的域名](https://gblobscdn.gitbook.com/assets%2F-Lww9wa-Dbzw5QCdWsMy%2F-M8pEAhsB4MGJtJAAeP9%2F-M8pEQJwHagptzLlWUBu%2Fssl_manage_add.png)
+![不死鸟防封-添加待生成证书的域名](https://static.cloudcdn.xyz/static/fangfeng-guide-articles/material/ssl_server/ssl_manage_add.png)
 
 
 2.点击“点击开始”按钮
 
-![image](https://gblobscdn.gitbook.com/assets%2F-Lww9wa-Dbzw5QCdWsMy%2F-M8pEAhsB4MGJtJAAeP9%2F-M8pEtQMMCox8q5D0JZA%2Fssl_manage_added.png)
+![image](https://static.cloudcdn.xyz/static/fangfeng-guide-articles/material/ssl_server/ssl_manage_added.png)
 
 3.此时你会收到dns解析的内容
 
@@ -86,7 +86,7 @@ https://wechaturl.gitbook.io/wechaturl/https_ssl/ssl_add
 6. 你已经成功掌握了最复杂的生成证书的方法了
 7. 将私钥和公钥拷贝到你的服务器上去配置即可
 
-![image](https://gblobscdn.gitbook.com/assets%2F-Lww9wa-Dbzw5QCdWsMy%2F-M8pEAhsB4MGJtJAAeP9%2F-M8pEuhCOdvixAkLQT_l%2Fssl_manage_list.png)
+![image](https://static.cloudcdn.xyz/static/fangfeng-guide-articles/material/ssl_server/ssl_manage_list.png)
 
 
 ######  欢迎你免费使用不死鸟防封，如果你觉得这篇文章帮助你了，请帮忙转发，谢谢！
