@@ -1,4 +1,4 @@
-上一篇我们讲了如何通过不死鸟防封的会员中心免费生成泛域名证书，[点击链接查看上一篇文章](https://github.com/wechaturl/fangfeng-guide-articles/blob/master/ssl_manage_add_star_domain.mdcom/)，这篇文章主要如果通过文件认证方式生成证书。
+上一篇我们讲了如何通过不死鸟防封的会员中心免费生成泛域名证书，[点击链接查看上一篇文章](https://github.com/wechaturl/fangfeng-guide-articles/blob/master/ssl_manage_add_star_domain.md)，这篇文章主要如果通过文件认证方式生成证书。
 
 #### 如果你有个域名xx.yourdomain.xx,想生成证书，但你可能没有dns管理权限，无法添加txt解析。那你不用担心，通过文件认证，即可生成证书，并且到期前会为你自动续期。
 
