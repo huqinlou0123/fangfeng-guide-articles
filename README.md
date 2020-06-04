@@ -7,3 +7,9 @@
 
 
 - [ 微信qq域名防红防洪之https防劫持(免费生成单域名证书)-不死鸟防封系列教程二](https://github.com/wechaturl/fangfeng-guide-articles/blob/master/ssl_manage_add_file_domain.md)
+
+
+- [ 短网址域名设置防qq微信劫持ip库劫持+https证书秒装--不死鸟防封系列教程三](https://github.com/wechaturl/fangfeng-guide-articles/blob/master/short_domain_set_https_ssl.md)
+
+
+
