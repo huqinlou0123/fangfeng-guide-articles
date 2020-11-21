@@ -11,5 +11,7 @@
 
 - [ 短网址域名设置防qq微信劫持ip库劫持+https证书秒装--不死鸟防封系列教程三](https://github.com/wechaturl/fangfeng-guide-articles/blob/master/short_domain_set_https_ssl.md)
 
+- [ Forbid some countries using our any service](https://github.com/wechaturl/wechat_url_api/blob/master/Suspend-IPS.MD)
+
 
 
